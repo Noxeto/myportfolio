@@ -1,2 +1,2 @@
 # noxeto.github.io
- https://iemkamran.github.io/portfolio
+https://noxeto.github.io/myportfolio/
