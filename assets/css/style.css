@@ -330,7 +330,9 @@ section {
   padding: 60px 0;
   overflow: hidden;
 }
-
+.img-fluid {
+    margin-top: -162px;
+}
 .section-title {
   text-align: center;
   padding-bottom: 30px;
@@ -402,7 +404,7 @@ section {
 
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 50px;
