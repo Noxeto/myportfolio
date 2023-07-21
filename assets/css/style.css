@@ -573,7 +573,7 @@ section .containerb {
   color: #728394;
 }
 
-.contact .info .email, .contact .info .phone {
+.contact .info .address, .contact .info .email, .contact .info .phone {
   margin-top: 40px;
 }
 
