@@ -661,10 +661,11 @@ section .containerb {
 }
 
 #footer .social-links a {
-  font-size: 30px;
+  font-size: 33px;
   background: #0563bb;
   color: #fff;
   border-radius: 4px;
+  display: inline-flex;
 }
 
 #footer .social-links a:hover {
