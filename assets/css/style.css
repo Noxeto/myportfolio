@@ -599,7 +599,7 @@ section .containerb {
 }
 
 @media (max-width: 992px) {
-  .contact .row {
+  .contact .info {
     flex-direction: column;
   }
 
