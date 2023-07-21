@@ -542,6 +542,7 @@ section .containerb {
 .contact .info {
   width: 330%;
   background: rgb(255, 255, 255);
+  display: flex;
 }
 
 .contact .info i {
