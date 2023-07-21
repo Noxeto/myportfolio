@@ -331,6 +331,8 @@ section {
   overflow: hidden;
 }
 .img-fluid {
+    max-width: 56%;
+    height: auto;
     margin-top: -162px;
 }
 .section-title {
