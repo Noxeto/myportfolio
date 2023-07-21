@@ -642,6 +642,7 @@ section .containerb {
   padding: 0;
   margin: 0 0 15px 0;
   color: #fff;
+  margin-top: -30px;
 }
 
 #footer p {
