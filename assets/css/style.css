@@ -627,7 +627,7 @@ section .containerb {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/footer.jpg");
+  background: url("../img/footer.png");
   color: #000000;
   font-size: 14px;
   text-align: center;
