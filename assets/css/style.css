@@ -582,6 +582,7 @@ section .containerb {
   margin-bottom: 0;
   font-size: 14px;
   color: #728394;
+  align-self: center;
 }
 
 .contact .info .address, .contact .info .email, .contact .info .phone {
