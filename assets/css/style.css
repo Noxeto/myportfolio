@@ -580,6 +580,12 @@ section .containerb {
 
 @media (max-width: 992px) {
   .contact .info p {
+    padding: 0 0 30px 60px;
+  }
+}
+
+@media (max-width: 992px) {
+  .contact .info h4 {
     padding: 0 0 0 60px;
   }
 }
