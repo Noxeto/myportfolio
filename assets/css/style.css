@@ -580,8 +580,11 @@ section .containerb {
 
 .contact .info .address, .contact .info .email, .contact .info .phone {
   display: flex;
-  padding-right: 20px;
   align-items: baseline;
+}
+
+.contact .info .address, .contact .info .email {
+  padding-right: 20px;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
