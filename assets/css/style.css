@@ -590,11 +590,6 @@ section .containerb {
   color: #fff;
 }
 
-.contact .info {
-  display: flex;
-  flex-direction: row;
-}
-
 .contact .info > div:not(:last-child)::after {
   content: "|";
   margin: 0 10px;
