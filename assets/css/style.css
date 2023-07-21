@@ -578,6 +578,12 @@ section .containerb {
   color: #728394;
 }
 
+@media (max-width: 992px) {
+  .contact .info p {
+    padding: 0 0 0 60px;
+  }
+}
+
 @media (min-width: 992px) {
   .contact .info .address, .contact .info .email, .contact .info .phone {
   display: flex;
