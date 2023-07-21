@@ -641,6 +641,7 @@ section .containerb {
   font-family: "Poppins", sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
+  color: #fff;
 }
 
 #footer p {
@@ -648,6 +649,7 @@ section .containerb {
   font-style: italic;
   padding: 0;
   margin: 0 0 40px 0;
+  color: #fff;
 }
 
 #footer p span {
