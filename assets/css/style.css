@@ -578,14 +578,14 @@ section .containerb {
   color: #728394;
 }
 
-@media (max-width: 992px) {
+@media (min-width: 992px) {
   .contact .info .address, .contact .info .email, .contact .info .phone {
   display: flex;
   align-items: baseline;
   }
 }
 
-@media (max-width: 992px) {
+@media (min-width: 992px) {
   .contact .info .address, .contact .info .email {
   padding-right: 20px;
   }
@@ -596,7 +596,7 @@ section .containerb {
   color: #fff;
 }
   
-@media (max-width: 992px) {
+@media (min-width: 992px) {
   .contact .info > div:not(:last-child)::after {
   content: "|";
   margin: 0 10px;
