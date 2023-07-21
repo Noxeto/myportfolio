@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background: url("../img/header.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -627,7 +627,7 @@ section .containerb {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/hero-bg.jpg");
+  background: url("../img/footer.png");
   color: #000000;
   font-size: 14px;
   text-align: center;
