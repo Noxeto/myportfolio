@@ -296,7 +296,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .social-links a {
-  font-size: 24px;
+  font-size: 40px;
   display: inline-block;
   color: #07dbf7;
   line-height: 1;
@@ -659,18 +659,10 @@ section .containerb {
 }
 
 #footer .social-links a {
-  font-size: 18px;
-  display: inline-block;
+  font-size: 30px;
   background: #0563bb;
   color: #fff;
-  line-height: 1;
-  padding: 8px 0;
-  margin-right: 4px;
-  border-radius: 50%;
-  text-align: center;
-  width: 36px;
-  height: 36px;
-  transition: 0.3s;
+  border-radius: 4px;
 }
 
 #footer .social-links a:hover {
