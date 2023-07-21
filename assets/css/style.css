@@ -560,7 +560,7 @@ section .containerb {
 }
 
 .contact .info h4 {
-  padding: 0 0 0 60px;
+  padding: 0 0 0 10px;
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
@@ -568,14 +568,14 @@ section .containerb {
 }
 
 .contact .info p {
-  padding: 0 0 0 60px;
+  padding: 0 0 0 10px;
   margin-bottom: 0;
   font-size: 14px;
   color: #728394;
 }
 
 .contact .info .address, .contact .info .email, .contact .info .phone {
-  margin-top: 40px;
+  
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
