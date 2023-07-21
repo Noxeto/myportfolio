@@ -578,31 +578,37 @@ section .containerb {
   color: #728394;
 }
 
-.contact .info .address, .contact .info .email, .contact .info .phone {
+@media (max-width: 992px) {
+  .contact .info .address, .contact .info .email, .contact .info .phone {
   display: flex;
   align-items: baseline;
+  }
 }
 
-.contact .info .address, .contact .info .email {
+@media (max-width: 992px) {
+  .contact .info .address, .contact .info .email {
   padding-right: 20px;
-}
+  }
+} 
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: #0563bb;
   color: #fff;
 }
-
-.contact .info > div:not(:last-child)::after {
+  
+@media (max-width: 992px) {
+  .contact .info > div:not(:last-child)::after {
   content: "|";
   margin: 0 10px;
   color: #000;
+  }
 }
 
 @media (max-width: 992px) {
   .contact .info {
     flex-direction: column;
   }
-
+}
 
 
 /*--------------------------------------------------------------
