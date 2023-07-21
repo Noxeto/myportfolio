@@ -598,6 +598,10 @@ section .containerb {
   color: #000;
 }
 
+@media (max-width: 992px) {
+  .contact .row {
+    flex-direction: column;
+  }
 
 
 
